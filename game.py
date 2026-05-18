@@ -2,7 +2,7 @@ import pygame
 import random
 from collections import deque
 from map import game_map as starting_map
-#update+add docstrings, type hints, and comments throughout --- IGNORE ---
+
 # must run via python3 game.py
 # map size and screen setup
 CELL_SIZE = 40
